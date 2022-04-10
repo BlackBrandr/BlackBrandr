@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/burak_karatas01" target="blank"><img src="https://img.shields.io/twitter/follow/burak_karatas01?logo=twitter&style=for-the-badge" alt="burak_karatas01" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security and Blockchain Systems**
+- 🌱 I’m currently learning **Smart Conteracts and Blockchain Systems**
 
-- 🤝 I’m looking for help with **Blockchain Payments Systems**
+- 🤝 I’m looking for help with **Blockchain and Smart Contracts**
 
-- 💬 Ask me about **Cyber Security**
+- 💬 Ask me about **Blockchain and Smart Contracts**
 
 - 📫 How to reach me **burakkaratasmedipol@gmail.com**
 
