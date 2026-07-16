@@ -88,7 +88,7 @@ CRAFT   PRD Writing · Roadmapping · Backlog · Sprint Planning · Stakeholder 
 ## `// CONNECT`
 
 [![Website](https://img.shields.io/badge/burakkaratas.com-F5D90A?style=flat-square&logo=aboutdotme&logoColor=0A0A0A)](https://www.burakkaratas.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3BFF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3BFF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakkaratas2001/)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:burakkaratas2001@gmail.com)
 
 <sub>`STATUS: SHIPPING` — building products that ship, tooling that saves hours.</sub>
