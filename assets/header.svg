@@ -1,0 +1,58 @@
+<svg viewBox="0 0 1200 360" width="1200" height="360" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <!-- palette: paper #EDEAE0 / ink #0A0A0A / blue #1F3BFF / hazard #F5D90A -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0A0A0A" stroke-width="1" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <!-- paper -->
+  <rect x="0" y="0" width="1200" height="360" fill="#EDEAE0"/>
+  <rect x="0" y="0" width="1200" height="360" fill="url(#grid)"/>
+  <!-- outer frame -->
+  <rect x="8" y="8" width="1184" height="344" fill="none" stroke="#0A0A0A" stroke-width="4"/>
+
+  <!-- registration marks (corners) -->
+  <g stroke="#1F3BFF" stroke-width="3">
+    <path d="M28 28h22M28 28v22"/>
+    <path d="M1172 28h-22M1172 28v22"/>
+    <path d="M28 332h22M28 332v-22"/>
+    <path d="M1172 332h-22M1172 332v-22"/>
+  </g>
+
+  <!-- top meta row -->
+  <text x="48" y="56" font-size="15" letter-spacing="3" fill="#0A0A0A">SPEC-CARD // ID: BK-2001 // ISTANBUL 41.0082°N 28.9784°E</text>
+
+  <!-- STATUS tag (hazard) with hard shadow -->
+  <rect x="998" y="34" width="164" height="52" fill="#0A0A0A"/>
+  <rect x="990" y="26" width="164" height="52" fill="#F5D90A" stroke="#0A0A0A" stroke-width="4"/>
+  <text x="1072" y="49" font-size="12" letter-spacing="2" text-anchor="middle" fill="#0A0A0A">STATUS</text>
+  <text x="1072" y="68" font-size="17" font-weight="bold" letter-spacing="2" text-anchor="middle" fill="#0A0A0A">SHIPPING</text>
+
+  <!-- eyebrow + blue rule -->
+  <text x="48" y="118" font-size="17" letter-spacing="5" fill="#0A0A0A">// PRODUCT · PROJECT · SYSTEMS</text>
+  <rect x="48" y="130" width="300" height="6" fill="#1F3BFF"/>
+
+  <!-- NAME block with hard offset shadow -->
+  <rect x="60" y="168" width="720" height="104" fill="#0A0A0A"/>
+  <rect x="48" y="156" width="720" height="104" fill="#EDEAE0" stroke="#0A0A0A" stroke-width="5"/>
+  <text x="72" y="228" font-size="62" font-weight="900" letter-spacing="1"
+        font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" fill="#0A0A0A">BURAK KARATAŞ</text>
+
+  <!-- role line -->
+  <text x="50" y="300" font-size="17" letter-spacing="2" fill="#0A0A0A">PRODUCT &amp; PROJECT MANAGER — COMPUTER ENGINEER — PMP CANDIDATE</text>
+
+  <!-- tag strip -->
+  <g font-size="13" letter-spacing="2" font-weight="bold">
+    <rect x="50" y="316" width="92" height="30" fill="none" stroke="#0A0A0A" stroke-width="3"/>
+    <text x="96" y="336" text-anchor="middle" fill="#0A0A0A">AGILE</text>
+    <rect x="150" y="316" width="92" height="30" fill="none" stroke="#0A0A0A" stroke-width="3"/>
+    <text x="196" y="336" text-anchor="middle" fill="#0A0A0A">SCRUM</text>
+    <rect x="250" y="316" width="80" height="30" fill="none" stroke="#0A0A0A" stroke-width="3"/>
+    <text x="290" y="336" text-anchor="middle" fill="#0A0A0A">PRD</text>
+    <rect x="338" y="316" width="84" height="30" fill="none" stroke="#0A0A0A" stroke-width="3"/>
+    <text x="380" y="336" text-anchor="middle" fill="#0A0A0A">JIRA</text>
+    <rect x="430" y="316" width="164" height="30" fill="#1F3BFF" stroke="#0A0A0A" stroke-width="3"/>
+    <text x="512" y="336" text-anchor="middle" fill="#EDEAE0">AUTOMATION</text>
+  </g>
+</svg>
